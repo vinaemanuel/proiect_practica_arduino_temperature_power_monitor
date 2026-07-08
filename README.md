@@ -1,0 +1,1 @@
+# proiect_practica_arduino_temperature_power_monitor
